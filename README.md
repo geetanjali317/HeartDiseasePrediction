@@ -111,10 +111,8 @@ Use the trained model to predict heart disease risk for new patients:
 📊 Results
 
 The best performing model achieved the following metrics:
-Model	Accuracy	Precision	Recall	F1-Score	ROC-AUC
-Logistic Regression	80.0%	0.86	0.85	0.72	0.80
-KNN	93.0%	0.93	0.94	0.94	0.94
-Support Vector Machine	82.4%	0.90	0.74	0.92	0.84
+![image](https://github.com/user-attachments/assets/c0602213-9b72-47de-b27f-5b55c5882f66)
+
 
 
 🤝 Contributing
